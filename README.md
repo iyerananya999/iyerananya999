@@ -1,7 +1,7 @@
 # Hey, I'm Ananya Iyer 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Science+%26+ML+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Science+%26+ML+Developer;Electrical+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 I'm a full stack developer with an interest in machine learning and electrical engineering. Whether through hardware or software, I enjoy building original, innovative projects that can help people. In my spare time, I compete in hackathons and play the violin. I am always open to explore new projects and framworks beyond my tech stack.
 
 - 🔭 Currently working on machine learning and electrical engineering
-- 🌱 Always exploring new tools and frameworks
+- 🌱 Always exploring new frameworks and technologies
 - 💡 Interested in intelligent systems 
-- 📫 Reach me at: [iyerananya999@gmail.com](mailto:iyerananya999@gmail.com)
+- 📫 Reach me at [iyerananya999@gmail.com](mailto:iyerananya999@gmail.com) or [LinkedIn](www.linkedin.com/in/ananya-iyer-b181402b7)
 
 ---
 
@@ -60,11 +60,3 @@ I'm a full stack developer with an interest in machine learning and electrical e
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyerananya999&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iyerananya999&style=flat-square&color=6C63FF" alt="Profile Views" />
-</p>
-
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
