@@ -45,9 +45,10 @@ I'm a full stack developer with an interest in machine learning and electrical e
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyerananya999&show_icons=true&theme=default&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true" alt="Ananya's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyerananya999&layout=compact&theme=default&hide_border=true&title_color=6C63FF&text_color=333333&bg_color=ffffff" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iyerananya999&show_icons=true&theme=default&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true" alt="Ananya's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iyerananya999&layout=compact&theme=default&hide_border=true&title_color=6C63FF&text_color=333333&bg_color=ffffff" alt="Top Languages" height="180"/>
 </p>
+
