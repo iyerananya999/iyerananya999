@@ -8,7 +8,7 @@ I'm a full stack developer with an interest in machine learning and electrical e
 - 🔭 Currently working on machine learning and electrical engineering
 - 🌱 Always exploring new frameworks and technologies
 - 💡 Interested in intelligent systems 
-- 📫 Reach me at [iyerananya999@gmail.com](mailto:iyerananya999@gmail.com) or [LinkedIn](www.linkedin.com/in/ananya-iyer-b181402b7)
+- 📫 Reach me at [iyerananya999@gmail.com](mailto:iyerananya999@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ananya-iyer-b181402b7/)
 
 ---
 
