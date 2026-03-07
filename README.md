@@ -45,14 +45,17 @@ I'm a full stack developer with an interest in machine learning and electrical e
 
 ---
 
-## GitHub Stats
-
+**🗣️ Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyerananya999&show_icons=true&theme=default&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=333333&bg_color=ffffff" alt="Ananya's GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyerananya999&layout=compact&theme=default&hide_border=true&title_color=6C63FF&text_color=333333&bg_color=ffffff" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyerananya999&layout=donut&theme=default&hide_border=true&title_color=6C63FF&text_color=333333&bg_color=ffffff" alt="Top Languages Donut" height="220"/>
 </p>
 
+**📈 Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyerananya999&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iyerananya999&bg_color=ffffff&color=6C63FF&line=6C63FF&point=6C63FF&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+**🏆 GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iyerananya999&theme=flat&no-frame=true&column=7&margin-w=10&title_color=6C63FF" alt="GitHub Trophies"/>
 </p>
