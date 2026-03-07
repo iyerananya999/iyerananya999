@@ -1,12 +1,8 @@
 # Hey, I'm Ananya Iyer 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Science+%26+ML+Developer;Electrical+Engineer" alt="Typing SVG" />
-</p>
-
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I'm a full stack developer with an interest in machine learning and electrical engineering. Whether through hardware or software, I enjoy building original, innovative projects that can help people. In my spare time, I compete in hackathons and play the violin. I am always open to explore new projects and framworks beyond my tech stack.
 
@@ -17,7 +13,7 @@ I'm a full stack developer with an interest in machine learning and electrical e
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -49,7 +45,7 @@ I'm a full stack developer with an interest in machine learning and electrical e
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iyerananya999&show_icons=true&theme=default&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=333333&bg_color=ffffff" alt="Ananya's GitHub Stats" height="180"/>
