@@ -1,4 +1,4 @@
-# Hey, I'm Ananya Iyer 👋
+# H! I'm Ananya 👋
 
 
 ## About Me
