@@ -1,4 +1,4 @@
-# H! I'm Ananya 👋
+# Hi! I'm Ananya 👋
 
 
 ## About Me
